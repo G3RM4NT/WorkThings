@@ -30,3 +30,34 @@ diferentes, dar diseño con boostrap o css, en conclusión siento que es algo
 muy completo ya que contamos con un servidor para backend y otro para 
 frontend y se conectan entre si espero seguir y conectar la base de datos 
 mañana si traigo fuerzas xd.
+
+En un proyecto de API con ASP.NET Core, la estructura normalmente se organiza así:
+
+Controllers
+Aquí se crean los controladores que manejan las peticiones HTTP (GET, POST, PUT, DELETE).
+Ejemplo: EmployeesController.cs
+Es donde defines los endpoints de tu API.
+Models
+Contiene las clases que representan la estructura de los datos.
+Ejemplo: Employee.cs
+Define cómo es un empleado (Id, Name, Email, etc.).
+Data (opcional)
+Se usa cuando trabajas con base de datos.
+Aquí normalmente está el DbContext, que es el encargado de conectarse a SQL Server u otra base de datos.
+Program.cs
+Es el archivo principal donde se configura la aplicación.
+Aquí defines cosas como:
+CORS
+Servicios
+Middleware
+Configuración general de la API
+appsettings.json
+Archivo de configuración.
+Se usa para guardar datos como:
+Cadenas de conexión a la base de datos
+Configuraciones del sistema.
+
+“El frontend en Angular se basa en componentes para la UI,
+ servicios para consumir APIs, y una estructura organizada
+ que separa responsabilidades, lo que permite escalabilidad 
+y mantenimiento.”
