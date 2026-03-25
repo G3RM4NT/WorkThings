@@ -1,0 +1,32 @@
+ASP.NET lo uso para crear APIs y manejar la lógica del servidor y
+ base de datos, mientras que Angular lo utilizo para 
+construir el frontend consumiendo esas
+ APIs y mostrando la información al usuario.”
+
+Un poco sobre la estructura del backend
+es un poco similar al MVC
+Tenemos controladores
+la api
+y las clases
+mañana escribire mas sobre ello
+
+al darle f5 se despliega la consola
+y levanta el servidor donde esta
+corriendo mi api , si se cierra
+la consola se apaga el servidor
+y ya no hay api.
+
+Comandos Creación Front-End
+npm install -g @angular/cli
+ng new employee-app
+cd employee-app
+ng serve
+ng generate component employees
+ng generate service services/employee
+
+Bastante confusión con nuevas actualizaciones algunos archivos no se llama
+como deberian al generarse automaticamente, activar cors ya que son puertos
+diferentes, dar diseño con boostrap o css, en conclusión siento que es algo
+muy completo ya que contamos con un servidor para backend y otro para 
+frontend y se conectan entre si espero seguir y conectar la base de datos 
+mañana si traigo fuerzas xd.

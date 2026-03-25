@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\German G\\Desktop\\WorkThings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|c:\\users\\german g\\desktop\\workthings\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F8CF1FD-D0E8-4960-A77F-2002EAC25CFD}|EmployeeAPI.csproj|solutionrelative:employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeAPI",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\EmployeeAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI.csproj",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\EmployeeAPI.csproj",
+              "RelativeToolTip": "EmployeeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T02:46:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T02:41:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\Data\\DBContext.cs",
+              "RelativeToolTip": "Data\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:39:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\employee.cs",
+              "RelativeDocumentMoniker": "employee.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\employee.cs",
+              "RelativeToolTip": "employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:34:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:41:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\WorkThings\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\WorkThings\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:59:45.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
