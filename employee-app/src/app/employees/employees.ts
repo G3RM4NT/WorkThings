@@ -7,7 +7,7 @@ import { FormsModule } from '@angular/forms';
   selector: 'app-employees',
   standalone: true,
   imports: [CommonModule, FormsModule], 
-  templateUrl: './employees.html'
+  templateUrl: './employees.html' 
 })
 export class EmployeesComponent implements OnInit {
 

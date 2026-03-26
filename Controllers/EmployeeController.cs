@@ -18,7 +18,7 @@ public class EmployeesController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Post(Employee emp)
+    public IActionResult Post(Employees emp)
     {
         _context.Employees.Add(emp);
         _context.SaveChanges();
